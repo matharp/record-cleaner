@@ -1,6 +1,7 @@
+// Modified by Prathamesh Shivade for record-cleaner
+
 /*
- * recanalyst_demo.c by biegleux modified by Prathamesh
- *
+ * recanalyst_demo.c by biegleux
  * Simple program demonstrates the use of recanalyst library.
  *
  * Copyright (c) 2009, biegleux <biegleux@gmail.com>
