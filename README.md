@@ -10,7 +10,7 @@ The Python program implements the following functions:
 3. Rename the files using the player name and map information
 4. Delete archives
 
-For more details:
+For documentation and installation instructions:
 AocZone thread: http://aoczone.net/viewtopic.php?f=104&t=97608.
 
 Credits
