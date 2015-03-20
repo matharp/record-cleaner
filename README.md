@@ -11,7 +11,8 @@ The Python program implements the following functions:
 4. Delete archives
 
 For documentation and installation instructions:
-AocZone thread: http://aoczone.net/viewtopic.php?f=104&t=97608.
+
+http://aoczone.net/viewtopic.php?f=104&t=97608.
 
 Credits
 =======
